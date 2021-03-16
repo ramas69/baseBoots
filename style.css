@@ -1,0 +1,28 @@
+.menu {
+    background-color:blueviolet;
+    color:white;
+}
+
+.menu a{
+    color:white;
+}
+
+.photo-hero{
+    background:url("https://images.unsplash.com/photo-1526823127573-0fda76b6c24f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hvY29sYXRlc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60")no-repeat center center/cover;
+    height:25em;
+  
+}
+.photo-hero h1{
+    color:white;
+}
+
+.photo-hero p{
+    background-color: white;
+    opacity: 0.5;
+    display:inline-block;
+    color:black;
+}
+.titre{
+    font-size: 2.5em;
+}
+
